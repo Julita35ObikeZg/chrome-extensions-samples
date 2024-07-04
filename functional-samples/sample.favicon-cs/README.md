@@ -4,7 +4,7 @@ This example fetches the favicon from www.google.com and inserts it at the top l
 
 Note: This extension does not work on `chrome://extensions`.
 
-See [Fetching favicons](https://developer.chrome.com/docs/extensions/mv3/favicon) to learn more. 
+See [Fetching favicons](https://developer.chrome.com/docs/extensions/mv3/favicon) to learn more.
 
 ## Testing the extension
 
@@ -13,4 +13,4 @@ See [Fetching favicons](https://developer.chrome.com/docs/extensions/mv3/favicon
 
 It should look like this:
 
-<img src="https://wd.imgix.net/image/BhuKGJaIeLNPW9ehns59NfwqKxF2/3Q1glvnzbWhraXRtnGOy.png" alt="Content script using the Favicon API" width="400"/>
+<img src="../../.repo/images/content-script-favicon.png" alt="Content script using the Favicon API" width="400"/>
